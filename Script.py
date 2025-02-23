@@ -11,11 +11,13 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
 
-    CAPTION ="""<b>[{file_name}](https://t.me/TMSLZOONOFFICIAL)
-📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/TMSLZOONSEARCH)
-🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/TMSLZOONOFFICIAL)
-©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [YA MOVIES](https://tmslzoon.xyz/)</b>"</b>
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
+⚙️ sɪᴢᴇ : {file_size}
+
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/TMSLZOONOFFICIAL)</b>""" 
+
+    
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@teraboxslinks?si=KQQAdas6tnuNPjYT
 # Ask Doubt on telegram @KingVJ01
